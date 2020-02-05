@@ -1,27 +1,27 @@
 {
   "files": {
-    "main.css": "/deals/static/css/main.490ba2f4.chunk.css",
-    "main.js": "/deals/static/js/main.5786a689.chunk.js",
-    "main.js.map": "/deals/static/js/main.5786a689.chunk.js.map",
-    "runtime-main.js": "/deals/static/js/runtime-main.eb357dc6.js",
-    "runtime-main.js.map": "/deals/static/js/runtime-main.eb357dc6.js.map",
-    "static/css/2.1d10ae30.chunk.css": "/deals/static/css/2.1d10ae30.chunk.css",
-    "static/js/2.df7ce9cb.chunk.js": "/deals/static/js/2.df7ce9cb.chunk.js",
-    "static/js/2.df7ce9cb.chunk.js.map": "/deals/static/js/2.df7ce9cb.chunk.js.map",
-    "index.html": "/deals/index.html",
-    "precache-manifest.92cfe33724be31247901f8618c813511.js": "/deals/precache-manifest.92cfe33724be31247901f8618c813511.js",
-    "service-worker.js": "/deals/service-worker.js",
-    "static/css/2.1d10ae30.chunk.css.map": "/deals/static/css/2.1d10ae30.chunk.css.map",
-    "static/css/main.490ba2f4.chunk.css.map": "/deals/static/css/main.490ba2f4.chunk.css.map",
-    "static/js/2.df7ce9cb.chunk.js.LICENSE": "/deals/static/js/2.df7ce9cb.chunk.js.LICENSE",
-    "static/media/App.css": "/deals/static/media/deal_bg.724ad4b0.jpg",
-    "static/media/logo.svg": "/deals/static/media/logo.25bf045c.svg"
+    "main.css": "/static/css/main.1a6374b2.chunk.css",
+    "main.js": "/static/js/main.8cb8fc22.chunk.js",
+    "main.js.map": "/static/js/main.8cb8fc22.chunk.js.map",
+    "runtime-main.js": "/static/js/runtime-main.83e5e061.js",
+    "runtime-main.js.map": "/static/js/runtime-main.83e5e061.js.map",
+    "static/css/2.1d10ae30.chunk.css": "/static/css/2.1d10ae30.chunk.css",
+    "static/js/2.7557f0fa.chunk.js": "/static/js/2.7557f0fa.chunk.js",
+    "static/js/2.7557f0fa.chunk.js.map": "/static/js/2.7557f0fa.chunk.js.map",
+    "index.html": "/index.html",
+    "precache-manifest.76beeaa66f72de6409b4c14b3292fac1.js": "/precache-manifest.76beeaa66f72de6409b4c14b3292fac1.js",
+    "service-worker.js": "/service-worker.js",
+    "static/css/2.1d10ae30.chunk.css.map": "/static/css/2.1d10ae30.chunk.css.map",
+    "static/css/main.1a6374b2.chunk.css.map": "/static/css/main.1a6374b2.chunk.css.map",
+    "static/js/2.7557f0fa.chunk.js.LICENSE": "/static/js/2.7557f0fa.chunk.js.LICENSE",
+    "static/media/App.css": "/static/media/deal_bg.724ad4b0.jpg",
+    "static/media/logo.svg": "/static/media/logo.25bf045c.svg"
   },
   "entrypoints": [
-    "static/js/runtime-main.eb357dc6.js",
+    "static/js/runtime-main.83e5e061.js",
     "static/css/2.1d10ae30.chunk.css",
-    "static/js/2.df7ce9cb.chunk.js",
-    "static/css/main.490ba2f4.chunk.css",
-    "static/js/main.5786a689.chunk.js"
+    "static/js/2.7557f0fa.chunk.js",
+    "static/css/main.1a6374b2.chunk.css",
+    "static/js/main.8cb8fc22.chunk.js"
   ]
 }
